@@ -10,3 +10,6 @@
 - [http://www.laowangomg.com/?p=488]
 - [https://zhuanlan.zhihu.com/p/368524007]
 
+# 工具
+## TexturePacker:精灵图处理工具
+- [https://www.codeandweb.com/texturepacker]

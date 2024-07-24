@@ -13,3 +13,9 @@
 # 工具
 ## TexturePacker:精灵图处理工具
 - [https://www.codeandweb.com/texturepacker]
+
+# 插件
+- ## FinalIK
+- ## LeanTween 线性动画插件[https://github.com/dentedpixel/LeanTween]
+- ## Odin 编辑器工具
+- ## Probuilder 生成模型工具
